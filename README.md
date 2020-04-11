@@ -1,3 +1,19 @@
+## :computer: First Program in C#
+
+```
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
+
+
 ## 🤔  Documentation
 C# language documentation can be found at: https://docs.microsoft.com/en-us/dotnet/csharp/
 
